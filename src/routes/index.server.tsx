@@ -1,5 +1,5 @@
 import { ContextConsumer } from "../components/ContextConsumer.client";
-import { MyContextProvider } from "../contexts/MyContext.client";
+import { MyContextProvider } from "contexts/MyContext.client";
 
 export default function Home() {
   return (

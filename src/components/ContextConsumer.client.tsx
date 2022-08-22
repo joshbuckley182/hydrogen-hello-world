@@ -1,4 +1,4 @@
-import { useMyContext } from "../contexts/MyContext.client";
+import { useMyContext } from "contexts/MyContext.client";
 
 export function ContextConsumer() {
   const contextValue = useMyContext();
